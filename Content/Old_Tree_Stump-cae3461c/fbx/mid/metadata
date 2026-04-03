@@ -1,0 +1,194 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 5485 px/m</p><p><strong>Physical size:</strong> 0.87m x 1.34m x 0.52m</p><p><strong>Mesh type:</strong> Open mesh</p><p><strong>Maps:</strong> AO Gloss Cavity Fuzz Roughness Displacement<em>(high tier only)</em> Normal Specular Basecolor Bump</p> <p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/0704a698-91e6-4019-b0c5-894a9dca9d1e/9fdc2e13-1224-4e69-a6af-0815af9c8817.jpeg",
+		"publishedAt": "2024-10-11T21:08:06.026808Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/fde46d4f-9130-424d-8d76-f632d9c93494/eb7c748b-7fea-4588-b6fb-2ae43eee0ee4.jpeg",
+		"title": "Old Tree Stump",
+		"uid": "cae3461c-107d-4d9f-8575-4d7177efd862",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Outdoor",
+				"slug": "outdoor",
+				"uid": "181bde92-b89d-49e9-b28f-af570035ad72"
+			},
+			{
+				"name": "Cracked",
+				"slug": "cracked",
+				"uid": "1b840f32-d934-4e95-be9f-75d1e10331d7"
+			},
+			{
+				"name": "Weathered",
+				"slug": "weathered",
+				"uid": "1b898690-ea9c-4c08-9dcf-4f1c7582d1b5"
+			},
+			{
+				"name": "Tree",
+				"slug": "tree",
+				"uid": "365e087d-8586-4b06-94e8-69c855e5f0aa"
+			},
+			{
+				"name": "Stump",
+				"slug": "stump",
+				"uid": "3a43deeb-3c28-409a-b45d-aea72689f3ef"
+			},
+			{
+				"name": "Mossy",
+				"slug": "mossy",
+				"uid": "4a5cbc12-00ad-42c8-b155-1b33654ad18d"
+			},
+			{
+				"name": "Grassland",
+				"slug": "grassland",
+				"uid": "51e154d7-a314-4401-b04e-13ee74ee332d"
+			},
+			{
+				"name": "Damaged",
+				"slug": "damaged",
+				"uid": "540d9215-2e43-430b-9673-48b5300b894d"
+			},
+			{
+				"name": "Broadleaf",
+				"slug": "broadleaf",
+				"uid": "67fef318-a970-4632-a800-11e947ffeb41"
+			},
+			{
+				"name": "Nature",
+				"slug": "nature",
+				"uid": "8d858676-26d9-4329-b3f7-0b3a4107b7f9"
+			},
+			{
+				"name": "Temperate",
+				"slug": "temperate",
+				"uid": "cdd83e37-f1a3-4f50-b8a1-135ae3008648"
+			},
+			{
+				"name": "Forest",
+				"slug": "forest",
+				"uid": "ce0abda8-968f-4046-967f-d7ff632d84a2"
+			},
+			{
+				"name": "Rotten",
+				"slug": "rotten",
+				"uid": "e1d0d7eb-ba80-41b2-a888-a19d4106007b"
+			},
+			{
+				"name": "Jungle",
+				"slug": "jungle",
+				"uid": "e9fa2284-0cb5-4f01-b9e9-486906dfcfe4"
+			},
+			{
+				"name": "Dead",
+				"slug": "dead",
+				"uid": "f39577a0-c1c8-43b1-b85c-44bd22e4865c"
+			}
+		],
+		"category":
+		{
+			"name": "Trees",
+			"path": "nature-plants/trees",
+			"slug": "nature-plants--trees",
+			"uid": "863c04e2-f67a-4ae4-a408-e66355330f54"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "ZBrush",
+					"groupName": "3D DCC Formats",
+					"code": "z-brush",
+					"icon": "zbrush",
+					"extensions": [
+						"zbp",
+						"ztl"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "c39cc6b1-5c9e-456a-87cf-0715d27889e8",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.7",
+	"quality": "mid",
+	"format": "fbx",
+	"fileId": "07b457b5-353a-4476-bc56-4785e32dbcbb",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "c39cc6b1-5c9e-456a-87cf-0715d27889e8",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}

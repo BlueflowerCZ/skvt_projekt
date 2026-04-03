@@ -1,0 +1,97 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>A cozy camping tent for the adventurous hike.</p>\n<p>4K textures are included.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/5442ea62-1555-4e37-981c-5659f1deacbd/42e36127-3498-4fb4-90ff-27ed134e1962.jpeg",
+		"publishedAt": "2024-10-03T11:31:33.163061Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/d4b4ab16-f7ac-47dc-8a60-2dcbb6d027ae/19255aa6-05ac-4606-b6db-6954883e7614.jpeg",
+		"title": "Camping Tent",
+		"uid": "37589a8c-3c10-4347-a5ce-44d1cd45ff59",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-wu63k52heae3j96lwvldmjvddhq5v9/profileImage/blob-500x500-9bbb9072b1865443bd21e8388f6c8024.jpg",
+			"sellerName": "Rosbergen Designs",
+			"uid": "9036e7b3-34e0-4a72-82af-52c841458045"
+		},
+		"tags": [
+			{
+				"name": "Equipment",
+				"slug": "equipment",
+				"uid": "660f3b42-d8c0-4cb7-94c3-6a1fec71fa26"
+			},
+			{
+				"name": "Camping",
+				"slug": "camping",
+				"uid": "925a20c7-7815-4af8-b429-43bee661b240"
+			},
+			{
+				"name": "Tent",
+				"slug": "tent",
+				"uid": "a0acdee1-5b79-4bed-9602-3dc58df7eb04"
+			}
+		],
+		"category":
+		{
+			"name": "Furniture & Fixtures",
+			"path": "furniture-fixtures",
+			"slug": "furniture-fixtures",
+			"uid": "3da1d2bd-49b4-4bc5-90e5-d31dadec3bd0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "387387e6-58a0-4b33-92f9-d96879b8e2bf",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "2b651d65-1dbc-4139-9bd7-f1db703062ef",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "387387e6-58a0-4b33-92f9-d96879b8e2bf",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
